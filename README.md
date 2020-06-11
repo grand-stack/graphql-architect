@@ -8,7 +8,11 @@ A Neo4j Graph App for building and deploying GraphQL APIs backed by Neo4j.
 
 ## Install
 
-To install in Neo4j Desktop click [this deeplink.](neo4j-desktop://graphapps/install?url=https://registry.npmjs.org/@grandstack/graphql-architect)
+To install in Neo4j Desktop open this deeplink in your web browser: 
+
+```
+neo4j-desktop://graphapps/install?url=https://registry.npmjs.org/@grandstack/graphql-architect
+```
 
 Or paste the following URL into the "Graph Application" Install form field in Neo4j Desktop:
 
